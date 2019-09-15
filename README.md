@@ -12,6 +12,4 @@ Experiment Videos
 http://tinyurl.com/NeuroSLAM-Experiments-Videos
 
 Paper
-Submited to Biological Cybernetics
-
-Fangwen Yu, Jianga Shang, Youjian Hu and Michael Milford. NeuroSLAM: A Brain inspired SLAM System for 3D Environments. Under review. 2019
+Fangwen Yu, Jianga Shang, Youjian Hu and Michael Milford. NeuroSLAM: A Brain inspired SLAM System for 3D Environments. Biological Cybernetics 2019, accepted
