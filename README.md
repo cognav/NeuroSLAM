@@ -6,8 +6,8 @@ Code：
 https://github.com/cognav/NeuroSLAM.git
 
 Datasets:
-(Google Drive)https://drive.google.com/drive/folders/10-BEQQkHW1OQIgXWCKjHsuHnqkK-68dc?usp=sharing
-or (Baidu Yun)
+(Google Drive) https://drive.google.com/drive/folders/10-BEQQkHW1OQIgXWCKjHsuHnqkK-68dc?usp=sharing
+or (Baidu Yun) https://pan.baidu.com/s/1p-qSvJTshvNgvZ5MtUqzTA 
 
 Experiment Videos
 https://www.neuroslam.net/?page_id=45
